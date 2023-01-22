@@ -1,0 +1,31 @@
+20230121	21:09:33	340bd6e1-d2ce-4f50-8794-389432feaa21	/	GET
+20230121	21:09:33	4704d737-8359-449b-bb57-ae899d77983f	/favicon.ico	GET
+20230121	21:11:06	7c71b466-ab2f-4e90-a142-dbf5a03ebe6a	/	GET
+20230121	23:01:45	abda93d4-5909-4cf2-aa89-160be87dcfa9	GET	undefined	/
+20230121	23:01:45	d39e920d-53a1-4cb6-b20c-f9388481c6f5	GET	undefined	/css/style.css
+20230121	23:08:06	a7fa7614-d465-47e2-a708-3dc53633ef83	GET	undefined	/
+20230121	23:08:07	5cb97add-f9e7-4b0d-9fbd-6bb4bc651890	GET	undefined	/css/style.css
+20230121	23:10:41	ac13fb4b-d4a0-4cfe-916f-6b0af1f7a1dd	OPTIONS	https://www.google.com	/
+20230121	23:10:41	34a9b14d-7a75-4b2f-b3c6-51cf35456217	GET	https://www.google.com	/
+20230121	23:24:33	0bef633a-0d23-4ce5-b84f-fade3ccc9c61	OPTIONS	https://www.google.co.kr	/
+20230121	23:24:33	51222a52-f420-441c-a5b4-c097cee97e5b	GET	https://www.google.co.kr	/
+20230121	23:25:00	bcd77361-0f0e-41ee-ba1f-75703aaf2e43	OPTIONS	https://www.google.co.kr	/
+20230121	23:25:00	70bca958-feb3-4049-8280-dee7cc9574df	GET	https://www.google.co.kr	/
+20230121	23:26:13	88658596-e486-4db4-acfd-343bc5353b7c	OPTIONS	https://www.google.co.kr	/
+20230121	23:26:13	cd445cad-9c8a-40bb-b510-6f2a299bd7ea	GET	https://www.google.co.kr	/
+20230121	23:31:39	03066943-f0e7-4fa6-aca2-eeae0ecec533	OPTIONS	https://www.google.co.kr	/
+20230121	23:31:39	9eefe083-9311-4520-a9f1-0aebd70acbef	GET	https://www.google.co.kr	/
+20230121	23:36:10	af144866-6951-4dac-90bb-11ec066e7aea	GET	undefined	/
+20230121	23:38:29	e07d7cea-f040-4680-8c1f-7b2f0b74d3ba	GET	undefined	/
+20230121	23:38:29	48b68169-c903-44e5-9832-c08b14b2f35f	GET	undefined	/css/style.css
+20230121	23:38:48	2bb9eef0-067a-4d41-8ca9-678319de7fcf	GET	undefined	/new-page.html
+20230121	23:38:55	ee3afd32-fd97-4a66-b6c2-68d3c86b4f9f	GET	undefined	/new-page.html
+20230121	23:54:33	63514f76-f7cf-4a5f-9f8f-3f7cd274c4c3	GET	undefined	/new-pageee
+20230121	23:56:46	30919fee-44d6-4835-b6af-ae05bc522314	GET	undefined	/new-pageee.html
+20230121	23:56:53	8d7ffc34-caa0-4c98-b026-245c102b2547	GET	undefined	/index.html
+20230121	23:56:53	51c7884f-3b5f-4a6d-91f9-e0b7c2495083	GET	undefined	/css/style.css
+20230121	23:56:58	96ad9f28-d1e4-4a1e-8a93-49c259790bee	GET	undefined	/qweqe.html
+20230121	23:58:23	05853724-4918-4912-bb01-cb6de1245ffa	GET	undefined	/qweqe.html
+20230121	23:58:40	373de264-20c8-43ce-b556-1e199afcead6	GET	undefined	/qweqe.html
+20230121	23:59:02	bdf201eb-7015-4477-a1be-59ce385a3357	GET	undefined	/qweqe.html
+20230121	23:59:02	53879eea-e969-46cc-9c23-26a635a6bc84	GET	undefined	/css/style.css

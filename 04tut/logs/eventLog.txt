@@ -1,0 +1,4 @@
+2023January	19:32:31	c9a0abf9-de32-4d57-b05c-221f2786d67d	{message}2023January	19:32:50	da5cab56-27bc-4570-bed0-d64fadc87bc2	Log Event emitted
+2023January	19:33:09	5cbb000f-9bad-4f5c-8cd4-d638b5df98e4	Log Event emitted
+20230121	19:33:53	ab254fe3-fced-46fe-90ef-c942ecec5f68	Log Event emitted20230121	19:34:36	4ec60d5d-832c-4deb-a332-b0d92959a776	Log Event emitted
+20230121	19:34:46	c2cc02c0-0f60-4b15-964a-bf795dccab63	Log Event emitted
